@@ -126,7 +126,7 @@ if __name__ == '__main__':
     print("Stopped video streaming.....")
 
     ep_robot.close()
-    
+```  
 
 ## MobileRobot Movement Image:
 
